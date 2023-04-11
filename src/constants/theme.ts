@@ -1,5 +1,5 @@
 export const theme = Object.freeze({
-  colors: {
+  color: {
     colorBtn: '#CCE5FF',
     activBtn: '#0000FF',
     activText: '#FFFFFF',
